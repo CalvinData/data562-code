@@ -1,1 +1,1 @@
-# data562-code
+# DATA 562 - Sample Personal Repository
